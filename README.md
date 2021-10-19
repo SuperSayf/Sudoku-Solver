@@ -3,8 +3,6 @@
 This project was for my COMS1017A course, which required us to code up a solution to solve
 a 9x9, 16x16 and 25x25 sudoku grid within a reasonable execution speed using C++
 
-![AppVeyor](https://img.shields.io/appveyor/build/SuperSayf/Sudoku-Solver)
-
 
 ## Features
 
